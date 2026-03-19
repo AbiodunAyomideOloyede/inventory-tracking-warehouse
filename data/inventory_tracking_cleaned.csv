@@ -1,0 +1,201 @@
+SKU,Item Name,Category,Warehouse,Supplier,Quantity,Reorder Point,Stock Value (NGN),Lead Time (Days),Stock Status,Movement Category,Reorder Needed
+SKU0001,Item 001,Safety Equipment,PH Warehouse,SafetyFirst Ltd,231,52,9892519.56,9,In Stock,Dead Stock,No
+SKU0002,Item 002,Office Supplies,Apapa Port,TechSource Ltd,228,39,1714300.08,20,In Stock,Slow Moving,No
+SKU0003,Item 003,Safety Equipment,PH Warehouse,AutoParts Nigeria,80,59,99403.2,19,In Stock,Dead Stock,No
+SKU0004,Item 004,Industrial Tools,PH Warehouse,TechSource Ltd,398,49,6627304.96,21,In Stock,Slow Moving,No
+SKU0005,Item 005,Safety Equipment,Lagos Main,AutoParts Nigeria,43,49,1415245.24,16,Low Stock,Active,YES
+SKU0006,Item 006,Spare Parts,Abuja Hub,PackRight Co,388,34,10044462.52,3,On Order,Slow Moving,No
+SKU0007,Item 007,Electronics,Abuja Hub,SafetyFirst Ltd,34,21,1443022.22,3,On Order,Active,No
+SKU0008,Item 008,Safety Equipment,Kano Depot,AutoParts Nigeria,203,46,835426.2,23,In Stock,Slow Moving,No
+SKU0009,Item 009,Electronics,Abuja Hub,PackRight Co,7,46,266161.07,6,Low Stock,Dead Stock,YES
+SKU0010,Item 010,Electronics,Lagos Main,TechSource Ltd,238,71,5854264.5,24,In Stock,Active,No
+SKU0011,Item 011,Spare Parts,Apapa Port,SafetyFirst Ltd,329,44,2061892.35,16,In Stock,Dead Stock,No
+SKU0012,Item 012,Office Supplies,Abuja Hub,TechSource Ltd,107,31,2141775.13,30,In Stock,Active,No
+SKU0013,Item 013,Industrial Tools,Apapa Port,SafetyFirst Ltd,132,20,5114754.48,13,In Stock,Active,No
+SKU0014,Item 014,Industrial Tools,PH Warehouse,AutoParts Nigeria,124,20,3752680.2,14,In Stock,Dead Stock,No
+SKU0015,Item 015,Safety Equipment,PH Warehouse,IndustrialPlus NG,443,44,4230636.71,7,On Order,Slow Moving,No
+SKU0016,Item 016,Spare Parts,Apapa Port,IndustrialPlus NG,378,60,17784915.12,9,On Order,Dead Stock,No
+SKU0017,Item 017,Electronics,Kano Depot,TechSource Ltd,53,26,128020.44,11,In Stock,Slow Moving,No
+SKU0018,Item 018,Safety Equipment,PH Warehouse,SafetyFirst Ltd,150,53,1377592.5,26,In Stock,Dead Stock,No
+SKU0019,Item 019,Spare Parts,PH Warehouse,OfficePro NG,37,37,407510.97,9,Low Stock,Active,YES
+SKU0020,Item 020,Packaging Materials,Kano Depot,SafetyFirst Ltd,127,23,356439.47,12,In Stock,Active,No
+SKU0021,Item 021,Electronics,Abuja Hub,IndustrialPlus NG,456,48,22359695.52,24,In Stock,Active,No
+SKU0022,Item 022,Office Supplies,Lagos Main,TechSource Ltd,243,78,4421353.41,12,In Stock,Active,No
+SKU0023,Item 023,Safety Equipment,Lagos Main,AutoParts Nigeria,159,40,1154656.41,5,In Stock,Dead Stock,No
+SKU0024,Item 024,Electronics,Apapa Port,PackRight Co,180,25,6194649.6,5,In Stock,Dead Stock,No
+SKU0025,Item 025,Office Supplies,Lagos Main,OfficePro NG,339,44,6532268.97,3,In Stock,Dead Stock,No
+SKU0026,Item 026,Electronics,Abuja Hub,SafetyFirst Ltd,372,41,7338667.2,26,In Stock,Slow Moving,No
+SKU0027,Item 027,Office Supplies,Lagos Main,OfficePro NG,384,52,758246.4,22,In Stock,Dead Stock,No
+SKU0028,Item 028,Electronics,Kano Depot,OfficePro NG,337,78,8280669.64,3,In Stock,Dead Stock,No
+SKU0029,Item 029,Industrial Tools,PH Warehouse,IndustrialPlus NG,385,77,6720155.75,17,In Stock,Dead Stock,No
+SKU0030,Item 030,Packaging Materials,Apapa Port,AutoParts Nigeria,220,71,8887214.6,9,In Stock,Dead Stock,No
+SKU0031,Item 031,Packaging Materials,Apapa Port,IndustrialPlus NG,68,51,1214607.84,30,In Stock,Slow Moving,No
+SKU0032,Item 032,Industrial Tools,Lagos Main,SafetyFirst Ltd,241,37,11164018.93,29,In Stock,Dead Stock,No
+SKU0033,Item 033,Spare Parts,Abuja Hub,AutoParts Nigeria,429,73,21068537.49,17,On Order,Slow Moving,No
+SKU0034,Item 034,Office Supplies,Lagos Main,AutoParts Nigeria,362,37,10405259.22,12,In Stock,Dead Stock,No
+SKU0035,Item 035,Industrial Tools,Kano Depot,SafetyFirst Ltd,97,21,3741876.85,11,In Stock,Active,No
+SKU0036,Item 036,Spare Parts,Lagos Main,SafetyFirst Ltd,55,60,1485103.4,23,Low Stock,Dead Stock,YES
+SKU0037,Item 037,Industrial Tools,Apapa Port,SafetyFirst Ltd,131,31,4696877.93,27,In Stock,Active,No
+SKU0038,Item 038,Industrial Tools,Abuja Hub,PackRight Co,276,64,13073438.28,19,In Stock,Dead Stock,No
+SKU0039,Item 039,Spare Parts,Apapa Port,TechSource Ltd,210,79,9384087.3,15,In Stock,Dead Stock,No
+SKU0040,Item 040,Electronics,Kano Depot,OfficePro NG,291,61,12811676.58,28,In Stock,Active,No
+SKU0041,Item 041,Electronics,Lagos Main,IndustrialPlus NG,124,77,2457186.48,5,Discontinued,Dead Stock,No
+SKU0042,Item 042,Packaging Materials,Abuja Hub,AutoParts Nigeria,438,21,7774981.8,5,In Stock,Slow Moving,No
+SKU0043,Item 043,Packaging Materials,Kano Depot,TechSource Ltd,111,71,4822247.37,16,In Stock,Dead Stock,No
+SKU0044,Item 044,Industrial Tools,Kano Depot,IndustrialPlus NG,264,77,9587566.56,29,In Stock,Dead Stock,No
+SKU0045,Item 045,Safety Equipment,PH Warehouse,AutoParts Nigeria,44,68,504240.0,19,Low Stock,Dead Stock,YES
+SKU0046,Item 046,Spare Parts,PH Warehouse,AutoParts Nigeria,84,53,2180105.76,20,In Stock,Dead Stock,No
+SKU0047,Item 047,Office Supplies,Apapa Port,PackRight Co,435,29,21070443.0,19,In Stock,Slow Moving,No
+SKU0048,Item 048,Office Supplies,Lagos Main,OfficePro NG,2,58,38326.0,20,Low Stock,Dead Stock,YES
+SKU0049,Item 049,Safety Equipment,PH Warehouse,OfficePro NG,62,51,317098.38,8,In Stock,Dead Stock,No
+SKU0050,Item 050,Safety Equipment,Abuja Hub,IndustrialPlus NG,242,51,1641945.8,16,In Stock,Active,No
+SKU0051,Item 051,Safety Equipment,PH Warehouse,TechSource Ltd,473,36,3267644.82,27,In Stock,Active,No
+SKU0052,Item 052,Electronics,Abuja Hub,PackRight Co,370,42,4662407.0,18,In Stock,Active,No
+SKU0053,Item 053,Office Supplies,PH Warehouse,PackRight Co,367,32,12924892.23,16,In Stock,Dead Stock,No
+SKU0054,Item 054,Office Supplies,PH Warehouse,IndustrialPlus NG,275,33,11896508.25,20,In Stock,Dead Stock,No
+SKU0055,Item 055,Office Supplies,PH Warehouse,OfficePro NG,438,28,5263266.42,26,In Stock,Active,No
+SKU0056,Item 056,Packaging Materials,PH Warehouse,PackRight Co,456,79,4622435.52,27,In Stock,Slow Moving,No
+SKU0057,Item 057,Industrial Tools,Lagos Main,PackRight Co,198,26,4360447.08,16,In Stock,Active,No
+SKU0058,Item 058,Safety Equipment,Lagos Main,TechSource Ltd,102,56,3496352.94,29,In Stock,Dead Stock,No
+SKU0059,Item 059,Packaging Materials,PH Warehouse,AutoParts Nigeria,426,32,17142563.76,18,In Stock,Dead Stock,No
+SKU0060,Item 060,Office Supplies,PH Warehouse,OfficePro NG,246,29,2431407.42,6,On Order,Slow Moving,No
+SKU0061,Item 061,Spare Parts,Lagos Main,OfficePro NG,31,28,1475569.0,17,In Stock,Slow Moving,No
+SKU0062,Item 062,Safety Equipment,Kano Depot,OfficePro NG,181,47,1972757.01,14,In Stock,Dead Stock,No
+SKU0063,Item 063,Industrial Tools,Apapa Port,SafetyFirst Ltd,232,43,8606513.28,15,In Stock,Dead Stock,No
+SKU0064,Item 064,Electronics,Abuja Hub,TechSource Ltd,410,73,14506308.4,30,In Stock,Active,No
+SKU0065,Item 065,Office Supplies,PH Warehouse,PackRight Co,412,68,5473040.96,6,On Order,Dead Stock,No
+SKU0066,Item 066,Safety Equipment,Apapa Port,PackRight Co,450,54,15701643.0,27,In Stock,Active,No
+SKU0067,Item 067,Spare Parts,Apapa Port,TechSource Ltd,408,41,6296921.04,6,Discontinued,Dead Stock,No
+SKU0068,Item 068,Office Supplies,Lagos Main,IndustrialPlus NG,139,80,6684580.89,12,In Stock,Dead Stock,No
+SKU0069,Item 069,Industrial Tools,PH Warehouse,TechSource Ltd,199,52,9948887.59,23,In Stock,Slow Moving,No
+SKU0070,Item 070,Office Supplies,Lagos Main,TechSource Ltd,315,26,11677160.25,11,In Stock,Dead Stock,No
+SKU0071,Item 071,Industrial Tools,Kano Depot,TechSource Ltd,50,36,645946.5,13,In Stock,Dead Stock,No
+SKU0072,Item 072,Office Supplies,Lagos Main,AutoParts Nigeria,227,71,7357163.07,20,On Order,Active,No
+SKU0073,Item 073,Safety Equipment,Apapa Port,SafetyFirst Ltd,241,30,10328242.98,20,In Stock,Dead Stock,No
+SKU0074,Item 074,Safety Equipment,Abuja Hub,OfficePro NG,204,58,3256560.12,19,In Stock,Dead Stock,No
+SKU0075,Item 075,Packaging Materials,Abuja Hub,TechSource Ltd,7,69,88400.41,4,Low Stock,Slow Moving,YES
+SKU0076,Item 076,Spare Parts,Kano Depot,TechSource Ltd,459,40,17232682.23,4,On Order,Active,No
+SKU0077,Item 077,Industrial Tools,Kano Depot,AutoParts Nigeria,244,36,11875924.08,10,In Stock,Dead Stock,No
+SKU0078,Item 078,Spare Parts,Kano Depot,IndustrialPlus NG,491,72,6204575.51,25,In Stock,Slow Moving,No
+SKU0079,Item 079,Electronics,Apapa Port,TechSource Ltd,182,53,1484908.88,14,In Stock,Slow Moving,No
+SKU0080,Item 080,Office Supplies,Abuja Hub,AutoParts Nigeria,298,63,6337512.36,27,On Order,Active,No
+SKU0081,Item 081,Packaging Materials,Apapa Port,IndustrialPlus NG,246,27,6247403.7,12,On Order,Slow Moving,No
+SKU0082,Item 082,Packaging Materials,PH Warehouse,AutoParts Nigeria,371,56,13023012.66,9,On Order,Active,No
+SKU0083,Item 083,Industrial Tools,PH Warehouse,AutoParts Nigeria,468,32,20591733.24,4,In Stock,Slow Moving,No
+SKU0084,Item 084,Safety Equipment,Lagos Main,OfficePro NG,19,26,218818.82,11,Low Stock,Active,YES
+SKU0085,Item 085,Spare Parts,Apapa Port,OfficePro NG,120,60,5890051.2,18,In Stock,Slow Moving,No
+SKU0086,Item 086,Safety Equipment,Apapa Port,TechSource Ltd,410,27,9283146.2,29,On Order,Active,No
+SKU0087,Item 087,Safety Equipment,Kano Depot,AutoParts Nigeria,132,44,5357736.12,14,On Order,Dead Stock,No
+SKU0088,Item 088,Packaging Materials,Abuja Hub,OfficePro NG,388,67,16061170.76,8,In Stock,Active,No
+SKU0089,Item 089,Safety Equipment,Abuja Hub,TechSource Ltd,278,25,6083593.54,21,In Stock,Slow Moving,No
+SKU0090,Item 090,Electronics,Lagos Main,PackRight Co,109,78,3626850.74,5,In Stock,Dead Stock,No
+SKU0091,Item 091,Spare Parts,Abuja Hub,PackRight Co,451,29,5109045.26,24,In Stock,Active,No
+SKU0092,Item 092,Packaging Materials,Kano Depot,OfficePro NG,304,78,13731160.16,24,In Stock,Slow Moving,No
+SKU0093,Item 093,Safety Equipment,Abuja Hub,IndustrialPlus NG,204,79,7471393.92,19,In Stock,Slow Moving,No
+SKU0094,Item 094,Electronics,Abuja Hub,AutoParts Nigeria,202,57,3976410.4,9,In Stock,Slow Moving,No
+SKU0095,Item 095,Office Supplies,Apapa Port,OfficePro NG,288,31,2661497.28,27,In Stock,Active,No
+SKU0096,Item 096,Industrial Tools,PH Warehouse,TechSource Ltd,278,30,7947850.42,3,On Order,Active,No
+SKU0097,Item 097,Office Supplies,PH Warehouse,PackRight Co,403,54,1878096.87,5,In Stock,Slow Moving,No
+SKU0098,Item 098,Electronics,Lagos Main,AutoParts Nigeria,334,29,1778132.5,29,In Stock,Active,No
+SKU0099,Item 099,Safety Equipment,PH Warehouse,PackRight Co,391,49,7828578.54,13,In Stock,Dead Stock,No
+SKU0100,Item 100,Office Supplies,Lagos Main,AutoParts Nigeria,316,78,881295.56,27,On Order,Dead Stock,No
+SKU0101,Item 101,Safety Equipment,Lagos Main,SafetyFirst Ltd,490,54,15774829.7,19,In Stock,Active,No
+SKU0102,Item 102,Safety Equipment,Kano Depot,IndustrialPlus NG,125,67,1066441.25,23,In Stock,Active,No
+SKU0103,Item 103,Safety Equipment,Kano Depot,OfficePro NG,149,37,7226966.37,4,In Stock,Slow Moving,No
+SKU0104,Item 104,Spare Parts,Apapa Port,IndustrialPlus NG,467,23,17643348.73,3,On Order,Active,No
+SKU0105,Item 105,Packaging Materials,Lagos Main,IndustrialPlus NG,94,42,1058395.82,10,In Stock,Dead Stock,No
+SKU0106,Item 106,Industrial Tools,Kano Depot,IndustrialPlus NG,457,37,9333352.13,27,In Stock,Dead Stock,No
+SKU0107,Item 107,Office Supplies,Kano Depot,PackRight Co,248,76,5066511.04,13,On Order,Active,No
+SKU0108,Item 108,Safety Equipment,Apapa Port,SafetyFirst Ltd,25,33,1185056.25,28,Low Stock,Dead Stock,YES
+SKU0109,Item 109,Office Supplies,Abuja Hub,TechSource Ltd,336,79,4119995.04,3,In Stock,Slow Moving,No
+SKU0110,Item 110,Spare Parts,Kano Depot,OfficePro NG,447,30,9423095.25,27,In Stock,Dead Stock,No
+SKU0111,Item 111,Office Supplies,Apapa Port,AutoParts Nigeria,379,59,5189347.59,20,In Stock,Active,No
+SKU0112,Item 112,Electronics,Apapa Port,IndustrialPlus NG,420,28,1923646.2,11,In Stock,Dead Stock,No
+SKU0113,Item 113,Safety Equipment,Kano Depot,TechSource Ltd,489,67,14444258.04,30,In Stock,Active,No
+SKU0114,Item 114,Safety Equipment,Apapa Port,AutoParts Nigeria,46,70,1904544.44,9,Low Stock,Slow Moving,YES
+SKU0115,Item 115,Office Supplies,Kano Depot,IndustrialPlus NG,484,73,23335939.0,13,In Stock,Slow Moving,No
+SKU0116,Item 116,Safety Equipment,Lagos Main,PackRight Co,38,63,283381.96,24,Low Stock,Slow Moving,YES
+SKU0117,Item 117,Spare Parts,Lagos Main,AutoParts Nigeria,227,20,9818228.97,25,In Stock,Dead Stock,No
+SKU0118,Item 118,Electronics,Kano Depot,TechSource Ltd,438,74,17551877.64,9,In Stock,Slow Moving,No
+SKU0119,Item 119,Office Supplies,Abuja Hub,PackRight Co,386,45,10808532.68,5,In Stock,Dead Stock,No
+SKU0120,Item 120,Electronics,Abuja Hub,PackRight Co,483,37,13697401.83,26,In Stock,Slow Moving,No
+SKU0121,Item 121,Electronics,Lagos Main,IndustrialPlus NG,318,26,2227984.32,23,In Stock,Slow Moving,No
+SKU0122,Item 122,Electronics,Kano Depot,OfficePro NG,360,25,1969700.4,4,In Stock,Dead Stock,No
+SKU0123,Item 123,Electronics,Abuja Hub,SafetyFirst Ltd,474,52,3499622.58,9,In Stock,Dead Stock,No
+SKU0124,Item 124,Packaging Materials,Kano Depot,OfficePro NG,7,66,142345.35,25,Low Stock,Dead Stock,YES
+SKU0125,Item 125,Industrial Tools,PH Warehouse,OfficePro NG,9,36,151967.34,13,Low Stock,Slow Moving,YES
+SKU0126,Item 126,Electronics,PH Warehouse,SafetyFirst Ltd,104,52,1765023.52,12,In Stock,Slow Moving,No
+SKU0127,Item 127,Office Supplies,Abuja Hub,OfficePro NG,119,42,3664562.16,19,In Stock,Dead Stock,No
+SKU0128,Item 128,Office Supplies,Apapa Port,OfficePro NG,483,21,15234887.43,9,In Stock,Dead Stock,No
+SKU0129,Item 129,Safety Equipment,Abuja Hub,PackRight Co,46,79,2009706.88,11,Low Stock,Slow Moving,YES
+SKU0130,Item 130,Spare Parts,Apapa Port,IndustrialPlus NG,462,56,12658601.34,20,On Order,Active,No
+SKU0131,Item 131,Spare Parts,Abuja Hub,OfficePro NG,74,27,3458204.26,3,On Order,Slow Moving,No
+SKU0132,Item 132,Office Supplies,Abuja Hub,IndustrialPlus NG,95,58,2623796.45,5,In Stock,Dead Stock,No
+SKU0133,Item 133,Spare Parts,Apapa Port,PackRight Co,387,62,16425971.19,15,In Stock,Dead Stock,No
+SKU0134,Item 134,Electronics,Apapa Port,IndustrialPlus NG,210,49,448671.3,19,In Stock,Active,No
+SKU0135,Item 135,Packaging Materials,PH Warehouse,IndustrialPlus NG,134,35,3834770.46,13,On Order,Dead Stock,No
+SKU0136,Item 136,Spare Parts,Apapa Port,SafetyFirst Ltd,491,51,14830468.42,18,On Order,Dead Stock,No
+SKU0137,Item 137,Spare Parts,PH Warehouse,SafetyFirst Ltd,384,38,9425882.88,17,On Order,Active,No
+SKU0138,Item 138,Office Supplies,Lagos Main,OfficePro NG,169,53,4440221.5,16,On Order,Slow Moving,No
+SKU0139,Item 139,Spare Parts,PH Warehouse,SafetyFirst Ltd,374,44,11248917.68,27,On Order,Slow Moving,No
+SKU0140,Item 140,Electronics,Kano Depot,IndustrialPlus NG,257,75,5175427.45,4,In Stock,Dead Stock,No
+SKU0141,Item 141,Industrial Tools,PH Warehouse,PackRight Co,336,45,15806101.92,5,In Stock,Dead Stock,No
+SKU0142,Item 142,Office Supplies,Kano Depot,OfficePro NG,412,30,4728964.84,26,In Stock,Active,No
+SKU0143,Item 143,Electronics,PH Warehouse,IndustrialPlus NG,63,76,1707974.1,17,Low Stock,Slow Moving,YES
+SKU0144,Item 144,Spare Parts,Abuja Hub,TechSource Ltd,166,31,597666.4,17,In Stock,Dead Stock,No
+SKU0145,Item 145,Office Supplies,Apapa Port,TechSource Ltd,156,21,3590542.8,13,In Stock,Dead Stock,No
+SKU0146,Item 146,Safety Equipment,Apapa Port,IndustrialPlus NG,151,74,6971840.63,4,On Order,Slow Moving,No
+SKU0147,Item 147,Safety Equipment,Lagos Main,IndustrialPlus NG,325,76,11390301.0,20,In Stock,Active,No
+SKU0148,Item 148,Electronics,Lagos Main,PackRight Co,371,72,5933365.9,11,On Order,Slow Moving,No
+SKU0149,Item 149,Spare Parts,Kano Depot,SafetyFirst Ltd,40,30,462009.6,12,In Stock,Slow Moving,No
+SKU0150,Item 150,Industrial Tools,Apapa Port,OfficePro NG,340,38,13473948.4,14,On Order,Dead Stock,No
+SKU0151,Item 151,Office Supplies,Apapa Port,PackRight Co,458,79,4322558.2,10,In Stock,Active,No
+SKU0152,Item 152,Safety Equipment,Lagos Main,SafetyFirst Ltd,469,53,1948085.3,4,In Stock,Dead Stock,No
+SKU0153,Item 153,Packaging Materials,Kano Depot,OfficePro NG,44,30,643064.84,27,In Stock,Dead Stock,No
+SKU0154,Item 154,Office Supplies,Lagos Main,IndustrialPlus NG,404,77,3217153.0,4,On Order,Dead Stock,No
+SKU0155,Item 155,Safety Equipment,Lagos Main,SafetyFirst Ltd,30,31,110079.9,27,Low Stock,Slow Moving,YES
+SKU0156,Item 156,Spare Parts,Kano Depot,TechSource Ltd,264,38,6739563.6,30,Discontinued,Dead Stock,No
+SKU0157,Item 157,Office Supplies,Apapa Port,OfficePro NG,399,69,3461791.83,22,In Stock,Dead Stock,No
+SKU0158,Item 158,Packaging Materials,Apapa Port,PackRight Co,250,54,2862792.5,21,In Stock,Active,No
+SKU0159,Item 159,Office Supplies,Lagos Main,OfficePro NG,229,75,10097086.32,13,In Stock,Dead Stock,No
+SKU0160,Item 160,Safety Equipment,PH Warehouse,SafetyFirst Ltd,370,36,15874949.9,3,On Order,Dead Stock,No
+SKU0161,Item 161,Spare Parts,PH Warehouse,OfficePro NG,405,66,4973314.95,7,In Stock,Dead Stock,No
+SKU0162,Item 162,Packaging Materials,PH Warehouse,AutoParts Nigeria,269,69,3659424.89,21,In Stock,Dead Stock,No
+SKU0163,Item 163,Industrial Tools,Kano Depot,PackRight Co,127,30,3187078.97,24,In Stock,Slow Moving,No
+SKU0164,Item 164,Safety Equipment,Kano Depot,PackRight Co,357,33,12615076.95,4,On Order,Dead Stock,No
+SKU0165,Item 165,Industrial Tools,Apapa Port,AutoParts Nigeria,233,53,8708279.47,4,In Stock,Dead Stock,No
+SKU0166,Item 166,Industrial Tools,Lagos Main,SafetyFirst Ltd,284,39,6775870.8,5,Discontinued,Dead Stock,No
+SKU0167,Item 167,Spare Parts,PH Warehouse,IndustrialPlus NG,151,36,963805.82,30,In Stock,Dead Stock,No
+SKU0168,Item 168,Industrial Tools,Abuja Hub,PackRight Co,172,80,8440356.48,22,In Stock,Dead Stock,No
+SKU0169,Item 169,Spare Parts,Lagos Main,AutoParts Nigeria,175,56,6105195.25,30,In Stock,Slow Moving,No
+SKU0170,Item 170,Industrial Tools,Kano Depot,SafetyFirst Ltd,400,23,4464768.0,14,On Order,Dead Stock,No
+SKU0171,Item 171,Industrial Tools,Kano Depot,IndustrialPlus NG,204,33,6099073.68,27,In Stock,Dead Stock,No
+SKU0172,Item 172,Spare Parts,Apapa Port,SafetyFirst Ltd,104,54,2023481.2,5,In Stock,Slow Moving,No
+SKU0173,Item 173,Office Supplies,Lagos Main,OfficePro NG,93,67,1254165.45,15,In Stock,Slow Moving,No
+SKU0174,Item 174,Electronics,Abuja Hub,TechSource Ltd,78,66,3655333.5,14,In Stock,Dead Stock,No
+SKU0175,Item 175,Electronics,Lagos Main,PackRight Co,429,44,9769089.33,30,In Stock,Dead Stock,No
+SKU0176,Item 176,Office Supplies,Lagos Main,PackRight Co,201,58,2471467.86,4,In Stock,Active,No
+SKU0177,Item 177,Electronics,Apapa Port,PackRight Co,210,47,5080286.4,25,In Stock,Slow Moving,No
+SKU0178,Item 178,Packaging Materials,Kano Depot,AutoParts Nigeria,193,29,8504709.05,29,In Stock,Slow Moving,No
+SKU0179,Item 179,Industrial Tools,Kano Depot,OfficePro NG,443,42,5178306.74,12,In Stock,Active,No
+SKU0180,Item 180,Electronics,Lagos Main,AutoParts Nigeria,322,50,9181495.12,28,In Stock,Active,No
+SKU0181,Item 181,Industrial Tools,PH Warehouse,AutoParts Nigeria,180,62,1177930.8,27,On Order,Slow Moving,No
+SKU0182,Item 182,Electronics,Kano Depot,TechSource Ltd,200,51,695052.0,15,In Stock,Slow Moving,No
+SKU0183,Item 183,Industrial Tools,Apapa Port,SafetyFirst Ltd,103,50,3968647.68,14,In Stock,Active,No
+SKU0184,Item 184,Spare Parts,Abuja Hub,SafetyFirst Ltd,411,29,9936405.87,11,In Stock,Dead Stock,No
+SKU0185,Item 185,Electronics,Kano Depot,TechSource Ltd,186,78,672473.7,15,In Stock,Dead Stock,No
+SKU0186,Item 186,Office Supplies,Abuja Hub,SafetyFirst Ltd,368,40,16324877.44,5,In Stock,Dead Stock,No
+SKU0187,Item 187,Packaging Materials,PH Warehouse,PackRight Co,134,72,4498227.24,8,In Stock,Slow Moving,No
+SKU0188,Item 188,Packaging Materials,Lagos Main,OfficePro NG,362,80,4061397.46,5,In Stock,Slow Moving,No
+SKU0189,Item 189,Office Supplies,Kano Depot,TechSource Ltd,141,24,5860728.45,17,In Stock,Active,No
+SKU0190,Item 190,Spare Parts,PH Warehouse,PackRight Co,158,51,2897678.92,3,In Stock,Active,No
+SKU0191,Item 191,Packaging Materials,Apapa Port,IndustrialPlus NG,266,20,12331919.6,15,In Stock,Dead Stock,No
+SKU0192,Item 192,Spare Parts,PH Warehouse,TechSource Ltd,319,72,9014244.58,29,In Stock,Slow Moving,No
+SKU0193,Item 193,Electronics,Lagos Main,PackRight Co,412,65,4447268.08,15,Discontinued,Dead Stock,No
+SKU0194,Item 194,Industrial Tools,Apapa Port,PackRight Co,318,64,7882390.02,21,In Stock,Slow Moving,No
+SKU0195,Item 195,Spare Parts,PH Warehouse,SafetyFirst Ltd,121,61,1553696.87,13,On Order,Dead Stock,No
+SKU0196,Item 196,Industrial Tools,Lagos Main,TechSource Ltd,418,26,18533250.56,12,In Stock,Dead Stock,No
+SKU0197,Item 197,Spare Parts,Kano Depot,TechSource Ltd,83,59,3600654.54,30,In Stock,Slow Moving,No
+SKU0198,Item 198,Office Supplies,Kano Depot,PackRight Co,366,60,4745153.4,25,In Stock,Dead Stock,No
+SKU0199,Item 199,Industrial Tools,PH Warehouse,IndustrialPlus NG,290,46,9350127.8,7,On Order,Dead Stock,No
+SKU0200,Item 200,Industrial Tools,Apapa Port,IndustrialPlus NG,192,59,6457597.44,10,Discontinued,Dead Stock,No
